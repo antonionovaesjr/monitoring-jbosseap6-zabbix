@@ -1,0 +1,1 @@
+# monitoring-jbosseap6-zabbix
